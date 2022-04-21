@@ -1,6 +1,19 @@
 [class*="col-"] {
     /* debug */
-    min-height: 100px;
+    min-height: 40px;
     background-color: dodgerblue;
     border: solid 1px white;
+}
+
+[class*="col-"] {
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+.green {
+    background-color: green;
+    border: solid 1px black;
 }
