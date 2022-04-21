@@ -1,4 +1,6 @@
 [class*="col-"] {
     /* debug */
-    
+    min-height: 100px;
+    background-color: dodgerblue;
+    border: solid 1px white;
 }
